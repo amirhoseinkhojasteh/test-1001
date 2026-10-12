@@ -17,3 +17,6 @@ import math
 k=math.sqrt(16)
 print(k)
 ```
+
+to print a message on standard
+output use `print` function
