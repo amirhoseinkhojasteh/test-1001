@@ -13,7 +13,7 @@ amir test
 
 
 ```python
-iport math
+import math
 k=math.sqrt(16)
 print(k)
 ```
