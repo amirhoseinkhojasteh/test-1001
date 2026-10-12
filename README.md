@@ -10,3 +10,10 @@ amir test
 - [ ] task1
 - [ ] task2
 - [x] task3
+
+
+```python
+iport math
+k=math.sqrt(16)
+print(k)
+```
